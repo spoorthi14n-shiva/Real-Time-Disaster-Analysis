@@ -1,0 +1,7 @@
+.venv
+.idea
+disasters_map.html
+disasters_time_map.html
+__pycache__/
+*.pyc
+
